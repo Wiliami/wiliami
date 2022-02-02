@@ -7,7 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliami&layout=compact&theme=radical" alt="">
   </div>  
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="center" alt="wiliami-javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="wiliami-typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="wiliami-react" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
