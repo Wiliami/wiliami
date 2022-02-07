@@ -1,6 +1,5 @@
 👋 Hi guys! My name is Wiliamis Oliveira and currently work with frontend.
-- 👨‍💻 Studying typescript
-- 👌 React and React Native
+- 👨‍💻 Studying python
   <div>
     <a href="https://github.com/Wiliami">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiliami&theme=radical&show_icons=true" alt="">
