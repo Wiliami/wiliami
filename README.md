@@ -1,4 +1,4 @@
-👋 Hi guys! My name is Wiliamis Oliveira and currently work with frontend.
+👋 Hi guys! My name is Wiliamis Oliveira and currently work with frontend..
 
   <div>
     <a href="https://github.com/Wiliami">
